@@ -32,7 +32,7 @@
       - 작업 자동화 및 Web 기반 관리툴 개발  
         (php, nodejs, elasticsearch, jenkins)
     * webkit 브라우저 테스트 자동화 제작
-      - 인코딩 오류 및 http 오류 검출 프로그램 개발  
+      - 인코딩 오류 및 http 오류 검출 자동화 프로그램 개발  
         (java, selenium)
   - 2015
     * 배송 연동 관리 솔루션 'D-hub' 제작
