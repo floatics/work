@@ -52,6 +52,7 @@
       - private cloud 구축 참여
       - 책임개발자로 container 관리 및 코드 결함 추적
       - 배포 파이프라인 변경 참여
+      - Monolithic 아키텍처 MSA로 분리 설계 및 개발  
       - MSA API 설계 및 개발  
         (k8s, php, golang, spring, redis, strace, gitlab-ci, python 등)
 
