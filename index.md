@@ -13,7 +13,7 @@
 
   - 가상화 : kubernetes / docker
   - CI/CD : git / gitlab-ci / hg / jenkins
-  - Backend : php / golang / nodejs / java(POJO)
+  - Backend : php / golang / nodejs / java
   - CLI : bash / python
   - Frondend : javascript / vuejs / jQuery / react
   - DB, Storage : pgsql / mariaDB / redis / memcache / kafka / elasticsearch / AWS S3
